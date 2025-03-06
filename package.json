@@ -1,0 +1,32 @@
+{
+  "name": "randomuser-server",
+  "version": "1.0.0",
+  "description": "MCP server for randomuser.me API with enhanced features",
+  "type": "module",
+  "main": "build/index.js",
+  "bin": {
+    "randomuser-server": "build/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "tsc -w",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "randomuser",
+    "api",
+    "server"
+  ],
+  "author": "rycid",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "axios": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
