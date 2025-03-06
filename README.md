@@ -1,5 +1,8 @@
-![RandomUser MCP Server Logo](./assets/randomUserLogoRemake.svg)
-
+<p align="center">
+  <a href="./assets/randomUserLogoRemake.svg">
+    <img src="./assets/randomUserLogoRemake.svg" align="c" height="100" />
+  </a>
+</p>
 
 # RandomUser MCP Server
 
