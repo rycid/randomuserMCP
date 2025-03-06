@@ -1,3 +1,6 @@
+![RandomUser MCP Server Logo](./assets/randomUserLogoRemake.svg)
+
+
 # RandomUser MCP Server
 
 An MCP server that provides enhanced access to the randomuser.me API with additional features like custom formatting, password generation, and weighted nationality distribution.
